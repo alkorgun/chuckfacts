@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="about_app">Факты о Чаке Норрисе (англ. Chuck Norris Facts) — интернет-мем, представляющий собой иронические «факты» об известном актёре Чаке Норрисе, в которых изобретаются абсурдные определения, пародирующие штампы кино-боевиков, излишне подчёркивая силу, владение единоборствами, а также привлекательность и мужественность Норриса.\n\nМногие факты указывают на особенность боя Чака Норриса — УЧННсР (Удар Чака Норриса Ногой с Разворота).\n\n© (2012) helldev.net</string>
+    <string name="about_image">Chuck Norris Approved</string>
+    <string name="app_name">Факты о Чаке</string>
+    <string name="fact">Однажды Чак Норрис решил поохотиться. По мотивам того дня был снят фильм «Хищник».</string>
+    <string name="fail0">Ошибка при парсинге&#8230;</string>
+    <string name="fail1">Нет доступа к интернет-ресурсу с фактами&#8230;</string>
+    <string name="menu_abort">Выход</string>
+    <string name="menu_about_app">О программе</string>
+    <string name="push">УЧННсР</string>
+    <string name="title_activity_main">Факты о Чаке</string>
+
+</resources>
